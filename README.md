@@ -1,5 +1,5 @@
-# Signed Polar Decomposition Axiom — Deterministic Paper Build
-![CI](https://github.com/sontric/signed-polar-decomposition-axiom/actions/workflows/build-paper.yml/badge.svg)
+# Signed Polar Decomposition — Deterministic Paper Build
+![CI](https://github.com/sontric/signed-polar-decomposition/actions/workflows/build-paper.yml/badge.svg)
 
 This repo builds figures and a PDF **deterministically** using a pinned Nix dev shell.
 
@@ -17,7 +17,7 @@ Everything else — compilers, LaTeX engine, Python/SymPy, etc. — is pinned by
 
 ```bash
 # clone the repo
-git clone https://github.com/sontric/signed-polar-decomposition-axiom
+git clone https://github.com/sontric/signed-polar-decomposition
 
 # enter shell with exact tools
 nix develop
