@@ -1,5 +1,6 @@
 # Signed Polar Decomposition — Deterministic Paper Build
 ![CI](https://github.com/sontric/signed-polar-decomposition/actions/workflows/build-paper.yml/badge.svg)
+[![DOI](https://zenodo.org/badge/1047405672.svg)](https://doi.org/10.5281/zenodo.17009274)
 
 This repo builds figures and a PDF **deterministically** using a pinned Nix dev shell.
 
